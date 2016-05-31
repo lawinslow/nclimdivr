@@ -1,0 +1,15 @@
+Package: nclimdivr
+Type: Package
+Title: Data package for NOAA nclimdiv DB
+Version: 0.1
+Date: 2016-04-21
+Author: Luke Winslow
+Maintainer: Luke Winslow <lawinslow@gmail.com>
+Description: More about what it does (maybe more than one line)
+Imports:
+    sp,
+    rgdal,
+    reshape2
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1
