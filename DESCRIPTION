@@ -1,15 +1,17 @@
 Package: nclimdivr
 Type: Package
-Title: Data package for NOAA nclimdiv DB
-Version: 0.1
-Date: 2016-04-21
+Title: Data package for NOAA nclimdiv Database
+Version: 0.2.0
+Date: 2017-01-21
 Author: Luke Winslow
 Maintainer: Luke Winslow <lawinslow@gmail.com>
-Description: More about what it does (maybe more than one line)
+Description: Simplified access for NOAA nClimDiv datbase of 
+   meteorological data. Includes US-wide data on precip, temperature,
+   and palmer drought index. 
 Imports:
     sp,
     rgdal,
     reshape2
-License: What license is it under?
+License: MIT
 LazyData: TRUE
 RoxygenNote: 5.0.1
