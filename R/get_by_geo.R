@@ -1,6 +1,8 @@
+#' @title Get Climate Division ID for Location
 #'
 #'
 #'
+#' @description
 #'
 #'
 #'
